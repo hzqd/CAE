@@ -1,0 +1,9 @@
+[package]
+name = "cae"
+version = "0.0.0"
+description = "Compression & Encryption"
+license = "MIT"
+repository = "https://github.com/hzqd/ce"
+edition = "2021"
+
+[dependencies]
